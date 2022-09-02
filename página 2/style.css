@@ -1,0 +1,59 @@
+
+#imagem{
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+h1{color:brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+h2{font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: chocolate;
+
+
+}
+h3{font-family: 'Times New Roman', Times, serif;
+    font-family: cursive;
+    font-size:20px;
+    color: crimson;
+
+
+
+}
+#preparo{color: chocolate;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+}
+
+.minhaClasse{
+    color:chocolate;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+td{
+    border: solid;
+}
+
+button{
+    padding: 5px 10px; 
+    margin:0;
+    border: 0px solid crimson; 
+    background:crimson;
+    text-decoration: none;
+    color:#FFF;
+    /* cantos arredondados */
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
